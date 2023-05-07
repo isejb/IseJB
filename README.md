@@ -1,4 +1,4 @@
-# isejb.github.io
+# isejb
 A “Jailbreak” that takes advantage of keybagd. This was made for my high school finals.
 Simple explanation:
 This jailbreak utalizes the "MacDirtyCow" Exploit (CVE-2022-46689)
@@ -31,3 +31,5 @@ This project is not open sourced. I may consider it in the future.
 No, Coolstar did not develop this. Some retard named "MidasLeaks" Edited the showcase video.
 
 - isan hamza
+
+Got an A on this project btw (:
